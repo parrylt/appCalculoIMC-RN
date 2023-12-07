@@ -1,5 +1,14 @@
 app para cálculo de IMC feito em aula.
 <br><br>
+<div align="center">
+  <h3>Página inicial</h3>
+  <img src="ImagensGit/1.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Aqui coloquei um exemplo e já sai o resultado</h3>
+  <img src="ImagensGit/2.png">  <img src="ImagensGit/3.png">
+</div>
 
 
 Agora fiquem com os reclames do snack
