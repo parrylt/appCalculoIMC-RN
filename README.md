@@ -10,7 +10,8 @@ app para cálculo de IMC feito em aula.
   <img src="ImagensGit/2.png">  <img src="ImagensGit/3.png">
 </div>
 
-
+o link do snack: https://snack.expo.dev/@romulojr/appcalculoimc
+<br><br>
 Agora fiquem com os reclames do snack
 
 # Sample Snack app
